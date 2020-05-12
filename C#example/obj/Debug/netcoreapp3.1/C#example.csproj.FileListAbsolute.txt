@@ -1,0 +1,13 @@
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/bin/Debug/netcoreapp3.1/C#example
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/bin/Debug/netcoreapp3.1/C#example.deps.json
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/bin/Debug/netcoreapp3.1/C#example.runtimeconfig.json
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/bin/Debug/netcoreapp3.1/C#example.runtimeconfig.dev.json
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/bin/Debug/netcoreapp3.1/C#example.dll
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/bin/Debug/netcoreapp3.1/C#example.pdb
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/obj/Debug/netcoreapp3.1/C#example.csprojAssemblyReference.cache
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/obj/Debug/netcoreapp3.1/C#example.csproj.CoreCompileInputs.cache
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/obj/Debug/netcoreapp3.1/C#example.AssemblyInfoInputs.cache
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/obj/Debug/netcoreapp3.1/C#example.AssemblyInfo.cs
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/obj/Debug/netcoreapp3.1/C#example.dll
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/obj/Debug/netcoreapp3.1/C#example.pdb
+/home/EDUNET.ORU.SE/timsah171/Desktop/C#/C#example/obj/Debug/netcoreapp3.1/C#example.genruntimeconfig.cache
