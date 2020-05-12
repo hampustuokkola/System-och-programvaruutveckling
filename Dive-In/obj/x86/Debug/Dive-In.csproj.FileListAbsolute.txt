@@ -1,0 +1,5 @@
+/home/EDUNET.ORU.SE/eriveh171/Projects/Dive-In/Dive-In/bin/Debug/Dive-In.exe
+/home/EDUNET.ORU.SE/eriveh171/Projects/Dive-In/Dive-In/bin/Debug/Dive-In.pdb
+/home/EDUNET.ORU.SE/eriveh171/Projects/Dive-In/Dive-In/obj/x86/Debug/Dive-In.csprojAssemblyReference.cache
+/home/EDUNET.ORU.SE/eriveh171/Projects/Dive-In/Dive-In/obj/x86/Debug/Dive-In.exe
+/home/EDUNET.ORU.SE/eriveh171/Projects/Dive-In/Dive-In/obj/x86/Debug/Dive-In.pdb
